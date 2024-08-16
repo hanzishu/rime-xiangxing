@@ -12,7 +12,7 @@
 
 第一个步骤：安装Rime/中州韵输入法引擎(一個跨平台的输入法算法框架)
 
-与其它依托Rime的输入法一样，首先从https://rime.im/download下载与电脑和手机对应的Rime程序. Rime在不同的系统有不同的名字，Windows电脑上叫小狼毫，苹果电脑/macOS上叫鼠须管，Linux上叫ibus-rime, 安卓/Android手机上叫同文，苹果手机上叫iRime（这个要从苹果手机应用店下载）。
+与其它依托Rime的输入法一样，首先从https://rime.im/download 下载与电脑和手机对应的Rime程序. Rime在不同的系统有不同的名字，Windows电脑上叫小狼毫，苹果电脑/macOS上叫鼠须管，Linux上叫ibus-rime, 安卓/Android手机上叫同文，苹果手机上叫iRime（这个要从苹果手机应用店下载）。
 
 第二个步骤：安装象形输入法文件
 
@@ -49,14 +49,10 @@ patch:
 - 常见形类别：丁形（丁/T），刀形（刀/D），单耳（卩/P），厂形（厂/F），三角形（厶/G），草字头（艹/H），长形（长/K）
 - 笔画类别：横为主(E/E），竖为主（丨/I），撇为首（丿/J），单纯点（丶/W），混合点（丫/Y），竖折（L/L）
    
-3） 部件与键盘匹配示意图。
-       
-![alt text](https://github.com/rime/rime-xiangxing/blob/master/xiangxing.png)
-
-4） 按照主要形状特征分配到键盘上的部件
-   
-![alt text](https://github.com/rime/rime-xiangxing/blob/master/xiangxingdetailed.png)
-       
+3） 详细的部件与键盘匹配图。
+见	http://hanzishu.cn
+或	https://hanzishu.com
+     
 
 四． 象形输入法打字方法
 
