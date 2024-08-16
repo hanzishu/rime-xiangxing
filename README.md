@@ -22,7 +22,7 @@
 
 3. 在用户文件夹创建或编辑文件`default.custom.yaml`，如下所示，将所需输入方案的ID ‘xiangxing’加入「输入方案列表」配置项：
 
-文件第一行内容：	patch
+文件第一行内容：	patch:
 
 文件第二行内容：	 schema_list:
 
