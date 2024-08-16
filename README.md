@@ -16,9 +16,9 @@
 
 第二个步骤：安装象形输入法文件
 
-1. 从GitHub代吗库(https://github.com/rime/rime-xiangxing/blob/master/) 下載所需的两个YAML文件（xiangxing.dict.yaml和xiangxing.schema.yaml)，然后将它们移到Rime安装地址的数据文件夹里（在Windows中，在c:\program files\Rime\weasel-*\data； 在iPhone中，在SharedSupport文件夹）。iPhone中，iRime通过它的‘电脑快传’功能从电脑传送其它输入法文件到iPhone。
+1. 从GitHub代码库(https://github.com/rime/rime-xiangxing/blob/master/) 下載所需的两个YAML文件（xiangxing.dict.yaml和xiangxing.schema.yaml)，然后将它们移到Rime安装地址的数据文件夹里（在Windows中，在c:\program files\Rime\weasel-*\data； 在iPhone中，在SharedSupport文件夹）。iPhone中，iRime通过它的‘电脑快传’功能从电脑传送其它输入法文件到iPhone。
 
-2. 由于象形输入法支持拼音反查，如果pinyin_simp的文件没装的话，从https://github.com/rime/rime-pinyin-simp/blob/master/ 找来pinyin_simp.dict.yaml和pinyin_simp.schema.yaml也以上的装在数据文件夹里。
+2. 由于象形输入法支持拼音反查，如果pinyin_simp的文件没装的话，从https://github.com/rime/rime-pinyin-simp/blob/master/ 找来pinyin_simp.dict.yaml和pinyin_simp.schema.yaml也装在以上的数据文件夹里。
 
 3. 在以上的数据文件夹里创建或编辑文件`default.custom.yaml`，如下所示，将所需输入方案的ID ‘xiangxing’加入「输入方案列表」配置项：
 
@@ -87,7 +87,7 @@
 象形输入法内嵌拼音输入。你首先打字母‘z’作为提示，然后打拼音。如果用内嵌的拼音输入打‘森’字，你先打‘z’，，然后打拼音‘sen’。这时，编辑处显示‘zsen’，候选字包括‘森’供你选择。在‘森’的后面列出它的象形输入码 ’MMM’ 供你复习。
 
 
-五．几个输入法引擎功能的用法
+五．Windows下几个输入法引擎功能的用法
 
 从一个程序开始用本输入法打字前，从电脑或手机输入法菜单中选择上节安装的Rime输入法引擎（包含了象形输入法）。
 
