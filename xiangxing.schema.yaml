@@ -11,7 +11,7 @@ schema:
     汉字树象形输入法
     按照部件和大写字母的形象打字
     hanzishu.com
-    www.hanzishu.cn
+    hanzishu.cn
   dependencies:
     - pinyin_simp
 
