@@ -4,7 +4,7 @@
 schema:
   schema_id: xiangxing
   name: 象形
-  version: "0.19.2"
+  version: "0.19.3"
   author:
     - 发明人 王中琪 <john@hanzishu.com>
   description:
